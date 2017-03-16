@@ -440,7 +440,7 @@ check_apache2
 check_httpd_status
 fetch_pac
 replace_pac_string
-serverspeeder
+#serverspeeder
     ;;
 rs)
 remove_squid
